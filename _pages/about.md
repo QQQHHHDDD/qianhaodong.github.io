@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 这是钱浩栋的主页，如您对我的研究感兴趣，欢迎联系我。
 
 
