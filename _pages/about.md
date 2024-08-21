@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "这是钱浩栋的主页，如您对我的研究感兴趣，欢迎联系我。"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-这是钱浩栋的主页，如您对我的研究感兴趣，欢迎联系我。
+
 
 
 
@@ -19,5 +19,6 @@ Github：[https://github.com/QQQHHHDDD](https://github.com/QQQHHHDDD)
 
 微信：
 
-![mmqrcode1724243090856](https://github.com/user-attachments/assets/750da4f5-77d2-458b-9e4d-707041ca9723)
-
+<p align = "center">    
+<img  src="https://github.com/user-attachments/assets/750da4f5-77d2-458b-9e4d-707041ca9723" width="600" />
+</p>
